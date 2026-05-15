@@ -1,0 +1,5 @@
+1
+data structures
+what is array?
+a collection of elements belong to same data type
+2
